@@ -1,7 +1,7 @@
 
-//Библиотека из книг на основе std::tuple с variadic templates (автор, название, год и т.д.)
+//Library books using std::tuple and variadic templates (author, name, year .... etc)
 
-//Для вывода на печать в отсортированном виде по автору, названию и т.д. используются vector или map (быстрее)
+//Sorting using vector, map (faster)
 
 #define _CRT_SECURE_NO_WARNINGS
 
